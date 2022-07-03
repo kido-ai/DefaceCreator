@@ -11,3 +11,5 @@ $ git clone https://github.com/kido-ai/DefaceCreator.git
 $ cd DefaceCreator
 $ php creator.php
 ```
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
