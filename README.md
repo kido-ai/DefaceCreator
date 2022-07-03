@@ -12,4 +12,4 @@ $ cd DefaceCreator
 $ php creator.php
 ```
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://a.top4top.io/p_237586juo0.png)
